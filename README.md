@@ -3,4 +3,4 @@
 </div>
 
 Page In process </br>
-I'm a Junior FrontEnd Developer, welcome to my Git Repository
+I'm a Junior Front End Developer, welcome to my Git Repository

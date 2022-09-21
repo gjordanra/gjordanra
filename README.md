@@ -3,5 +3,5 @@
 </div>
  <a href ="https://gjordanrad.x10.bz/">My portfolio</a>
 
-<div>I'm a Junior Front End Developer, welcome to my Git Repository </div>
+<div>On my way to senior Front End Developer, welcome to my Git Repository </div>
 

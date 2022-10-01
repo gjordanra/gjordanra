@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </div>
-<p>Hi I'm Gustavo and this is the link to <a href ="https://gjordanrad.x10.bz/">my portfolio</a>:black_nib:</p>
+<p>Hi I'm Gustavo and this is the link to my <a href ="https://gjordanrad.x10.bz/">portfolio</a>:black_nib:</p>
 
 <p>On my way to come Senior Front End Developer and UX designer, welcome to my Git Repository!</p>
 

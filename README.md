@@ -20,4 +20,4 @@ Azure</p>
 <p>View certificate</p>
 
 <p>Let's get in touch</br>
-LinkedIn Email</p>
+LinkedIn</p>

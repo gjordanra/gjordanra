@@ -5,7 +5,7 @@
 
 <p>On my way to become <b>Senior Front End Developer and UX designer</b>, welcome to my Git Repository!</p>
 
-<p>🌟 <em>Looking for re,pte job right now.</em>🌟</br>
+<p>🌟 <em>Looking for remote job right now.</em>🌟</br>
 :earth_americas: I like web design and making web applications.</br>
 :bulb: Working on my own projects</br>
 :monocle_face: Learning new things and techs</p>

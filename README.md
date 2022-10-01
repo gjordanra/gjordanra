@@ -1,7 +1,23 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </div>
- <a href ="https://gjordanrad.x10.bz/">My portfolio</a>
+<p>Hi I'm Gustavo and this is the link to <a href ="https://gjordanrad.x10.bz/">my portfolio</a>:black_nib:</p>
 
-<div>On my way to senior Front End Developer, welcome to my Git Repository </div>
+<p>On my way to come Senior Front End Developer and UX designer, welcome to my Git Repository!</p>
 
+<p>🌟 <em>Im Looking for job right now.</em></br>
+:earth_americas: I like web design and making web applications.</br>
+:bulb: Working on my own projects</br>
+:monocle_face: Learning new things</p>
+
+
+<p>Technologies</br>
+Java JavaScript Python TypeScript HTML CSS React Next.js AWS GitHub</p>
+
+<p>Education & Qualifications:</br>
+Azure</p>
+
+<p>View certificate</p>
+
+<p>Let's get in touch</br>
+LinkedIn Email</p>

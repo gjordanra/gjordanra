@@ -10,6 +10,9 @@
 :bulb: Working on my own projects</br>
 :monocle_face: Learning new things and techs</p>
 
+Proud to be:
+
+
 <h2>Technologies</h2>
 <p>
 <img src=	"https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />

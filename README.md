@@ -41,5 +41,5 @@
 <p>Let's get in touch</br>
 <a href="https://www.linkedin.com/in/gustavojordanramirez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 <p>Proud to be:</br>
-<img src=	"https://i.postimg.cc/CxhMHQCf/BESTDADBADGE.png" />
+<img src=	"https://i.postimg.cc/CxhMHQCf/BESTDADBADGE.png" width = "170px" />
 </p>

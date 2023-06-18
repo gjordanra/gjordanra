@@ -3,7 +3,7 @@
 </div>
 <p>Hi I'm Gustavo and this is the link to my <a href ="https://gustavojordan.site">portfolio</a>:black_nib:</p>
 
-<p>On my way to become <b>Senior Front End Developer and UX designer</b>, welcome to my Git Repository!</p>
+<p>Welcome to my Git Repository!</p>
 
 <p>🌟 <em>Looking for remote job right now.</em>🌟</br>
 :earth_americas: I like web design and making web applications.</br>

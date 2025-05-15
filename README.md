@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </div>
-<p>Hi I'm Gustavo and this is the link to my <a href ="https://gustavojordan.site">portfolio</a>:black_nib:</p>
+<p>Hi I'm Gustavo and this is the link to my <a href ="https://gustavojordan.com">portfolio</a>:black_nib:</p>
 
 <p>Welcome to my Git Repository!</p>
 

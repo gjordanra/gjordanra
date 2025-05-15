@@ -5,7 +5,7 @@
 
 <p>Welcome to my Git Repository!</p>
 
-<p>🌟 <em>If you need a UX| UI designer for a part time project you can contact me.</em>🌟</br>
+<p>🌟 <em>If you need a UX | UI designer for a part-time payed project you can contact me.</em>🌟</br>
 :earth_americas: I like web design and making web applications.</br>
 :bulb: Working on my own projects</br>
 :monocle_face: Learning new things and techs</p>
